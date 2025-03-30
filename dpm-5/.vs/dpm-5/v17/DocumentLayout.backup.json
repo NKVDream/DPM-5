@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\Task1.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\dpm-5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\Task1.csproj|solutionrelative:dpm-5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\dpm-5.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\dpm-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\dpm-5.csproj|solutionrelative:dpm-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Person.cs",
+              "RelativeDocumentMoniker": "dpm-5\\Person.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Person.cs",
+              "RelativeToolTip": "dpm-5\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:05:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Program.cs",
+              "RelativeDocumentMoniker": "dpm-5\\Program.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Program.cs",
+              "RelativeToolTip": "dpm-5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:04:53.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
