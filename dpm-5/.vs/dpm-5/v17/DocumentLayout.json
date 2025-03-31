@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\Task1.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\dpm-5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\Task1.csproj|solutionrelative:dpm-5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\dpm-5.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\dpm-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F0E6BD-94EE-45A1-9550-2C68F6C77C75}|dpm-5\\dpm-5.csproj|solutionrelative:dpm-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\task3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|solutionrelative:task3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Person.cs",
-              "RelativeDocumentMoniker": "dpm-5\\Person.cs",
-              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Person.cs",
-              "RelativeToolTip": "dpm-5\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Student.cs",
+              "RelativeDocumentMoniker": "Task3\\Student.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Student.cs",
+              "RelativeToolTip": "Task3\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:05:34.183Z",
+              "WhenOpened": "2025-03-31T15:18:28.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Program.cs",
-              "RelativeDocumentMoniker": "dpm-5\\Program.cs",
-              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\dpm-5\\Program.cs",
-              "RelativeToolTip": "dpm-5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:04:53.007Z",
+              "WhenOpened": "2025-03-31T15:16:40.592Z",
               "EditorCaption": ""
             }
           ]
