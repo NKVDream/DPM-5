@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49F3845-741E-4614-8A9F-76CF809CEF7F}|Task4\\Task4.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49F3845-741E-4614-8A9F-76CF809CEF7F}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\task3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9939D24C-7009-4475-9F78-2741DA546B13}|Task3\\Task3.csproj|solutionrelative:task3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49F3845-741E-4614-8A9F-76CF809CEF7F}|Task4\\Task4.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-5\\dpm-5\\task4\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49F3845-741E-4614-8A9F-76CF809CEF7F}|Task4\\Task4.csproj|solutionrelative:task4\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Student.cs",
-              "RelativeDocumentMoniker": "Task3\\Student.cs",
-              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Student.cs",
-              "RelativeToolTip": "Task3\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task4\\Calculate.cs",
+              "RelativeDocumentMoniker": "Task4\\Calculate.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task4\\Calculate.cs",
+              "RelativeToolTip": "Task4\\Calculate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:18:28.826Z",
+              "WhenOpened": "2025-04-01T10:09:27.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task3\\Program.cs",
-              "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-5\\dpm-5\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:16:40.592Z",
+              "WhenOpened": "2025-04-01T10:08:53.196Z",
               "EditorCaption": ""
             }
           ]
